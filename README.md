@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey 👋, I'm Victor Santos
 
-<!--
-**VictorSantos6/VictorSantos6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer in Progress • Full-Stack Learner • UI-Focused Builder
 
-Here are some ideas to get you started:
+Building practical software projects, learning modern web development, and turning ideas into clean, usable apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Learning software development with a focus on full-stack projects
+- 💻 Interested in web apps, backend systems, and clean user experiences
+- 🌱 Currently improving my skills in JavaScript, TypeScript, React, Node.js, and GitHub workflows
+- 🛠️ Building portfolio projects that solve real problems, not just demos
+- 🎨 I care about making apps that look good and feel easy to use
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, APIs, databases
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** TypeScript, full-stack architecture, deployment, and better UI/UX patterns
+
+## 📈 Currently Working On
+
+- ⚡ Full-stack portfolio projects
+- 🧠 AI-assisted development workflows
+- 🎨 Cleaner UI design and better user experiences
+- 🚀 Publishing more polished work on GitHub
+
+## ⚡ Fun Fact
+
+I’m building my GitHub from the ground up, so every project here is part of the glow-up.
+
+## 📫 Let’s Connect
+
+- GitHub: [@VictorSantos6](https://github.com/VictorSantos6)
+- LinkedIn: Add your LinkedIn URL here
+- Portfolio: Coming soon
+
+⭐ Always open to learning, building, and collaborating on useful software projects.
