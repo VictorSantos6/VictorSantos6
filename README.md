@@ -1,4 +1,4 @@
-# Hey 👋, I'm Victor Santos
+# Hey, I'm Victor Santos
 
 Software Developer in Progress • Full-Stack Learner • UI-Focused Builder
 
@@ -6,11 +6,11 @@ Building practical software projects, learning modern web development, and turni
 
 ## 🚀 About Me
 
-- 🎓 Learning software development with a focus on full-stack projects
-- 💻 Interested in web apps, backend systems, and clean user experiences
-- 🌱 Currently improving my skills in JavaScript, TypeScript, React, Node.js, and GitHub workflows
-- 🛠️ Building portfolio projects that solve real problems, not just demos
-- 🎨 I care about making apps that look good and feel easy to use
+- Learning software development with a focus on full-stack projects
+- Interested in web apps, backend systems, and clean user experiences
+- Currently improving my skills in JavaScript, TypeScript, React, Node.js, and GitHub workflows
+- Building portfolio projects that solve real problems, not just demos
+- I care about making apps that look good and feel easy to use
 
 ## 🛠️ Tech Stack
 
@@ -21,10 +21,10 @@ Building practical software projects, learning modern web development, and turni
 
 ## 📈 Currently Working On
 
-- ⚡ Full-stack portfolio projects
-- 🧠 AI-assisted development workflows
-- 🎨 Cleaner UI design and better user experiences
-- 🚀 Publishing more polished work on GitHub
+- Full-stack portfolio projects
+- AI-assisted development workflows
+- Cleaner UI design and better user experiences
+- Publishing more polished work on GitHub
 
 ## ⚡ Fun Fact
 
